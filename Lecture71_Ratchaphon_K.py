@@ -9,7 +9,7 @@ menulist = []
 pricelist = []
 
 while True:
-    menu = input("menu:")
+    menu = input("Please enter menu: ")
     if menu.lower() == "exit":
         break
     else:
